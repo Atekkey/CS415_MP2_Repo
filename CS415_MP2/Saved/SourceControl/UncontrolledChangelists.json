@@ -1,0 +1,52 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/Hour_of_Code/Blueprints/BP_gem.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/LearningKit_Games/Blueprints/Interactables/medical_kit/scene.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/MyContent/medical_kit/scene.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/MyContent/medical_kit/Medkit.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/MyContent/medical_kit/Medkit_normal.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/MyContent/medical_kit/Medkit_metallicRoughness.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/MyContent/medical_kit/Medkit_baseColor.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/MyContent/medical_kit/textures/Medkit_metallicRoughness.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/MyContent/medical_kit/textures/Medkit_baseColor.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/MyContent/medical_kit/textures/Medkit_normal.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/LearningKit_Games/Blueprints/Interactables/Lever_BP.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/LearningKit_Games/Assets/Characters/Character/Animations/epicCharacter_AnimBP.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/BlockGame/PlayerCharacter/BlockCharacter_AnimBP.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/MyContent/MY_BPS/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/MyContent/MY_BPS/BPI_LearningKit_PlayerInteractions.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/MyContent/MY_BPS/BP_MedPack.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/MyContent/UI/WB_GameOverScreen.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/MyContent/UI/WB_HealthBar.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/MyContent/UI/WB_Score.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/MyContent/MY_BPS/BP_Pursuer.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/MyContent/MY_BPS/BP_gem.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/MyContent/MY_BPS/Pursuer_AIController.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/MyContent/MY_BPS/EAIState.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BPI_LearningKit_PlayerInteractions.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/UI/WB_HealthBar.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/UI/WB_GameOverScreen.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/UI/WB_Score.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/LearningKit_Games/Blueprints/Interactables/medical_kit/Medkit.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/LearningKit_Games/Blueprints/Interactables/medical_kit/textures/Medkit_baseColor.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/LearningKit_Games/Blueprints/Interactables/medical_kit/Medkit_baseColor.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/LearningKit_Games/Blueprints/Interactables/medical_kit/Medkit_metallicRoughness.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/LearningKit_Games/Blueprints/Interactables/medical_kit/textures/Medkit_metallicRoughness.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/LearningKit_Games/Blueprints/Interactables/medical_kit/textures/Medkit_normal.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/LearningKit_Games/Blueprints/Interactables/medical_kit/Medkit_normal.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BPI_LearningKit_PlayerInteractions.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/BlockGame/UI/WB_GameOverScreen.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/BlockGame/UI/WB_HealthBar.uasset"
+			]
+		}
+	]
+}
