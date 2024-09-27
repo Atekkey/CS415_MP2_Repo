@@ -22,7 +22,6 @@
 				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/LearningKit_Games/Assets/Characters/Character/Animations/epicCharacter_AnimBP.uasset",
 				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/BlockGame/PlayerCharacter/BlockCharacter_AnimBP.uasset",
 				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/MyContent/MY_BPS/BP_LearningKit_PlayerCharacter.uasset",
-				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/MyContent/MY_BPS/BPI_LearningKit_PlayerInteractions.uasset",
 				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/MyContent/MY_BPS/BP_MedPack.uasset",
 				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/MyContent/UI/WB_GameOverScreen.uasset",
 				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/MyContent/UI/WB_HealthBar.uasset",
@@ -33,6 +32,12 @@
 				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/MyContent/MY_BPS/Pursuer_AIController.uasset",
 				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/MyContent/MY_BPS/EAIState.uasset",
 				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BPI_LearningKit_PlayerInteractions.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/MyMap.umap",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/MyContent/PlayerCharacter/BPI_LearningKit_PlayerInteractions.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/MyContent/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/MyContent/MY_BPS/PlayerCharacter/BPI_LearningKit_PlayerInteractions.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/MyContent/MY_BPS/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/MyContent/MY_BPS/BPI_LearningKit_PlayerInteractions.uasset",
 				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/UI/WB_HealthBar.uasset",
 				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/UI/WB_GameOverScreen.uasset",
 				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/UI/WB_Score.uasset",
@@ -43,7 +48,6 @@
 				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/LearningKit_Games/Blueprints/Interactables/medical_kit/textures/Medkit_metallicRoughness.uasset",
 				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/LearningKit_Games/Blueprints/Interactables/medical_kit/textures/Medkit_normal.uasset",
 				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/LearningKit_Games/Blueprints/Interactables/medical_kit/Medkit_normal.uasset",
-				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BPI_LearningKit_PlayerInteractions.uasset",
 				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/BlockGame/UI/WB_GameOverScreen.uasset",
 				"C:/Users/ajatt/CodingFolder/CS415_MP2_Repo/CS415_MP2/Content/BlockGame/UI/WB_HealthBar.uasset"
 			]
